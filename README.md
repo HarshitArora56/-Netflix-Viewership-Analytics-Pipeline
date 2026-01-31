@@ -62,10 +62,10 @@ Netflix-Viewership-Analytics-Pipeline/
 
 ## 🔄 Data Zones (S3)
 
-- **Raw Zone:** `s3://<bucket-name>/raw/`
-- **Processed Zone:** `s3://<bucket-name>/processed/`
-- **Curated Zone:** `s3://<bucket-name>/curated/`
-- **Athena Results:** `s3://<bucket-name>/athena-results/`
+- **Raw Zone:** `s3://netflix-etl-data-bucket/raw/`
+- **Processed Zone:** `s3://netflix-etl-data-bucket/processed/`
+- **Curated Zone:** `s3://netflix-etl-data-bucket/curated/`
+- **Athena Results:** `s3://netflix-etl-data-bucket/athena-results/`
 
 ---
 
